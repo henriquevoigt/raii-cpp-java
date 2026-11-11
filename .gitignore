@@ -1,4 +1,4 @@
-# C++ build artifacts
+# C++ / CMake build artifacts
 *.o
 *.obj
 *.out
@@ -8,6 +8,10 @@ build/
 bin/
 cpp/bin/
 cpp/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
 
 # Java build artifacts
 *.class

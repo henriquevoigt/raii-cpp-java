@@ -15,8 +15,8 @@ Estudar o princípio *Resource Acquisition Is Initialization* (RAII) em C++ e co
 
 ## Requisitos
 
-- **C++:** Compilador compatível com C++17 ou superior (`g++` ou `clang++`) e `make`.
-- **Java:** JDK 17 ou superior (`javac` e `java`).
+- **C++:** Compilador compatível com **C++20** ou superior (`g++` ou `clang++`) e **CMake 3.21+**.
+- **Java:** **JDK 25 (LTS)** ou superior (`javac` e `java`).
 
 ## Como Compilar e Executar
 
