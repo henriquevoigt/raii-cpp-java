@@ -1,0 +1,41 @@
+# C++ build artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.app
+build/
+bin/
+cpp/bin/
+cpp/build/
+
+# Java build artifacts
+*.class
+*.jar
+*.war
+java/bin/
+java/out/
+target/
+
+# IDEs and local workspace
+.vscode/
+.idea/
+.eclipse/
+.settings/
+.classpath
+.project
+.workspace/
+*.swp
+*~
+.DS_Store
+
+# LaTeX / PDF intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
